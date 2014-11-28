@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Location and Time</name>
 
     <description>
         An example for phonegap build docs. 
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+        Tom Stevens
     </author>
 <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
 </widget>
